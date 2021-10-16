@@ -1,0 +1,1 @@
+str = str.substring(1);
